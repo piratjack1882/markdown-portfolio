@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I have strong knowledges in **Java 8**, *Java EE*, **SQL**, *XML*, **Maven**, *Git* and etc.:+1: :smile:
